@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# PyPSA temporary files
+*.nc
+*.nc4
+
+# Grid2Poster cache
+cache/
+posters/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
